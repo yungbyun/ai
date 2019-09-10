@@ -28,3 +28,7 @@ https://youtu.be/V0-zxFwFmyo <br/>
 https://youtu.be/0dZtOB0iaO8 <br/>
 * #39 while 문 (6분 50초) <br/>
 https://youtu.be/j1_Og0zl-jU <br/>
+* #46 모듈 (3분 20초)
+https://www.youtube.com/watch?v=qN2X_1KAv-M&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=47 (edited) 
+* #47 난수를 발생시켜주는 모듈 (7분 9초)
+https://www.youtube.com/watch?v=DMydLshdX4I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=48 (edited) 
