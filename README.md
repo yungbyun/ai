@@ -19,5 +19,5 @@
 > * **sklearn 싸이킷런 : 머신러닝 모델을 만들 수 있는 멋진 모듈 (인공지능)**
 
 # GitHub 링크 제출하는 곳
-> 12월 20일 밤 11시 59분까지 제출
-> 
+> 제출마감: 12월 20일 밤 11시 59분
+> https://docs.google.com/spreadsheets/d/18xr_vhfxtvpw9MypaXOLSwiOc7tKpUZvxuGmZpBZi_4/edit?usp=sharing
