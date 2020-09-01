@@ -22,4 +22,4 @@
 
 # GitHub 링크 제출하는 곳
 > 제출마감: 
-> https://docs.google.com/spreadsheets/d/18xr_vhfxtvpw9MypaXOLSwiOc7tKpUZvxuGmZpBZi_4/edit?usp=sharing
+> 제출링크: 
