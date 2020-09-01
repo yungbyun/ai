@@ -10,6 +10,7 @@
 # 거꾸로 학습
 > 슬랙 가입하기
 > https://join.slack.com/t/jnuai/shared_invite/zt-gy20hb2e-3kWox3sffiylvyhV_nVwEA
+
 > 슬랙 들어가서 학습하기
 > https://join.slack.com/t/jnuai/shared_invite/enQtNzQ4Njc2MTA0NDM0LWZlYmI1ZjFjZjNiMTc1NDZkZTM3ZjZlNjBjMWQyZGY5NTc3NWJkYWExZjY4NzFkYTgzNzg0NzIxNzdkNjU5YmI
 
