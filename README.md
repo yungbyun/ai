@@ -8,6 +8,8 @@
 
 
 # 거꾸로 학습
+> 슬랙 가입하기
+> https://join.slack.com/t/jnuai/shared_invite/zt-gy20hb2e-3kWox3sffiylvyhV_nVwEA
 > 슬랙 들어가서 학습하기
 > https://join.slack.com/t/jnuai/shared_invite/enQtNzQ4Njc2MTA0NDM0LWZlYmI1ZjFjZjNiMTc1NDZkZTM3ZjZlNjBjMWQyZGY5NTc3NWJkYWExZjY4NzFkYTgzNzg0NzIxNzdkNjU5YmI
 
@@ -19,5 +21,5 @@
 > * **sklearn 싸이킷런 : 머신러닝 모델을 만들 수 있는 멋진 모듈 (인공지능)**
 
 # GitHub 링크 제출하는 곳
-> 제출마감: 12월 20일 밤 11시 59분
+> 제출마감: 
 > https://docs.google.com/spreadsheets/d/18xr_vhfxtvpw9MypaXOLSwiOc7tKpUZvxuGmZpBZi_4/edit?usp=sharing
