@@ -11,7 +11,7 @@
 > 슬랙 가입하기
 > https://join.slack.com/t/jnuai/shared_invite/zt-gy20hb2e-3kWox3sffiylvyhV_nVwEA
 
-> 슬랙 들어가서 학습하기#1 
+> 슬랙 들어가서 학습하기#1 </br>
 > Class_2020_1: https://jnuai.slack.com/archives/C019MU09CBG </br>
 > Class_2020_2: 
 
