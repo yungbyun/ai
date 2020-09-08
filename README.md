@@ -1,12 +1,5 @@
 # 인공지능(Artificial Intelligence)
 
-## 성별 알아맞히기
-> 키/몸무게/발크기로 성별 알아맞추기 <br/>
-> https://www.kaggle.com/yungbyun/female-male-classification
-
-## 집값 예측하는 코드
-> https://www.kaggle.com/yungbyun/fork-of-house-price-prediction-for-tutorial
-
 ## 동영상 강의 (슬랙)
 
 > 9월 8일 (수) 동영상 강좌: Class_2020_1
@@ -17,6 +10,12 @@
 > <b>중요! 동영상을 보고 9월 9일 밤 11시까지 댓글을 달아야 출석이 인정됩니다. 기간 내에 댓글을 달지 않을 경우 예외없이 결석으로 처리됩니다.:</b></br>
 > https://app.slack.com/client/TNFK94R46/C01A86Z1L5Q/details/top
 
+## 성별 알아맞히기
+> 키/몸무게/발크기로 성별 알아맞추기 <br/>
+> https://www.kaggle.com/yungbyun/female-male-classification
+
+## 집값 예측하는 코드
+> https://www.kaggle.com/yungbyun/fork-of-house-price-prediction-for-tutorial
 
 > **각 모듈에 대한 간단한 설명입니다.**
 > * **Pandas 판다스 : 데이터를 읽어들이고 유지하고 관리할 수 있는 멋진 모듈 (데이터베이스)**
