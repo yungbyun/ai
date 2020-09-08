@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# 인공지능(Artificial Intelligence)
 
 ## 성별 알아맞히기
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
