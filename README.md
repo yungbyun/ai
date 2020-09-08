@@ -12,7 +12,9 @@
 > https://join.slack.com/t/jnuai/shared_invite/zt-gy20hb2e-3kWox3sffiylvyhV_nVwEA
 
 > 슬랙 들어가서 학습하기#1 </br>
-> 9월 8일 Class_2020_1<b>(중요! 동영상을 보고 댓글을 달아야 출석이 인정됩니다.):</b></br>
+
+> 9월 8일 Class_2020_1</br>
+> <b>중요! 동영상을 보고 댓글을 달아야 출석이 인정됩니다.:</b></br>
 > https://jnuai.slack.com/archives/C019MU09CBG </br>
 
 > Class_2020_2: 
