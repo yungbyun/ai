@@ -7,7 +7,7 @@
 ## 집값 예측하는 코드
 > https://www.kaggle.com/yungbyun/fork-of-house-price-prediction-for-tutorial
 
-# 거꾸로 학습
+## 거꾸로 학습
 > 슬랙 가입하기
 > https://join.slack.com/t/jnuai/shared_invite/zt-gy20hb2e-3kWox3sffiylvyhV_nVwEA
 
@@ -26,6 +26,6 @@
 > * **Seaborn 시본 : 데이터를 멋지게 표시하는 모듈 (엑셀)**
 > * **sklearn 싸이킷런 : 머신러닝 모델을 만들 수 있는 멋진 모듈 (인공지능)**
 
-# GitHub 링크 제출하는 곳
+## 과제 GitHub 링크 제출하는 곳
 > 제출마감: </br>
 > 제출링크: 
