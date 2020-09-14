@@ -14,7 +14,7 @@
 
 ## 식물 성장 예측하기
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
-> https://www.kaggle.complant-diary-original
+> https://www.kaggle.com/yungbyun/plant-diary-original/
 
 
 ## 성별 알아맞히기
