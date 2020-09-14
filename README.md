@@ -12,6 +12,11 @@
 > <b>중요! 동영상을 보고 9월 9일 밤 11시까지 댓글을 달아야 출석이 인정됩니다. 기간 내에 댓글을 달지 않을 경우 예외없이 결석으로 처리됩니다.:</b></br>
 > https://app.slack.com/client/TNFK94R46/C01A86Z1L5Q/details/top
 
+## 식물 성장 예측하기
+> 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
+> https://www.kaggle.complant-diary-original
+
+
 ## 성별 알아맞히기
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
 > https://www.kaggle.com/yungbyun/female-male-classification
