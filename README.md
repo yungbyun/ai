@@ -21,7 +21,7 @@
 
 ## 성별 알아맞히기
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
-> https://www.kaggle.com/yungbyun/female-male-classification
+> https://www.kaggle.com/yungbyun/female-male-classification-original (original)
 
 ## 집값 예측하는 코드
 > https://www.kaggle.com/yungbyun/fork-of-house-price-prediction-for-tutorial
