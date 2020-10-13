@@ -23,6 +23,9 @@
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
 > https://www.kaggle.com/yungbyun/female-male-classification-original (original)
 
+## 성별 알아맞히기 (작업중)
+> 작업중인 노트북: https://www.kaggle.com/yungbyun/female-male-classification-work
+
 ## 집값 예측하는 코드
 > https://www.kaggle.com/yungbyun/fork-of-house-price-prediction-for-tutorial
 
