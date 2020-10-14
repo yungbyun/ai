@@ -26,6 +26,9 @@
 ## 성별 알아맞히기 (작업중)
 > 작업중인 노트북: https://www.kaggle.com/yungbyun/female-male-classification-work
 
+## 붓꽃(Iris) 인식
+> https://www.kaggle.com/ash316/ml-from-scratch-with-iris
+
 ## 집값 예측하는 코드
 > https://www.kaggle.com/yungbyun/fork-of-house-price-prediction-for-tutorial
 
@@ -35,8 +38,7 @@
 > * **Seaborn 시본 : 데이터를 멋지게 표시하는 모듈 (엑셀)**
 > * **sklearn 싸이킷런 : 머신러닝 모델을 만들 수 있는 멋진 모듈 (인공지능)**
 
-
-## 추상화한 함수들
+## 추상화한 함수들(라이브러리)
 > * https://www.kaggle.com/yungbyun/functions-for-ml/edit
 
 
