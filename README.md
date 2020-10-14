@@ -38,7 +38,7 @@
 
 ## 추상화한 함수들
 
-'''
+<pre><code>
 import pandas as pd # 데이터 처리 모듈
 import matplotlib.pyplot as plt # 데이터 시각화 모듈 
 import seaborn as sns # 데이터 시각화 모듈
@@ -199,7 +199,7 @@ def get_rate_4_algo(train_X, train_y, test_X, test_y):
     minsu.fit(train_X,train_y)
     prediction = minsu.predict(test_X) # 테스트
     print('인식률:',metrics.accuracy_score(prediction,test_y) * 100)
-'''
+</code></pre>
 
 
 ## 과제 GitHub 링크 제출하는 곳
