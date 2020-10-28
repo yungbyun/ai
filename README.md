@@ -40,7 +40,7 @@
 
 ## 추상화한 함수들(라이브러리)
 > * https://www.kaggle.com/yungbyun/functions-for-ml (함수와 샘플코드와 CSV 파일)
-> * https://www.kaggle.com/yungbyun/functions-only (함수만 들어있음)
+> * https://www.kaggle.com/yungbyun/functions-only (함수만 들어있음) 이를 이용하여 식물생장(예측/인식), 성별(인식/예측), 붓꽃(인식/예측) 코딩을 직접 해보자. 
 
 ## 과제 GitHub 링크 제출하는 곳
 > 제출마감: </br>
