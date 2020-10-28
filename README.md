@@ -30,7 +30,7 @@
 > https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 
 ## 집값 예측하는 코드
-> https://www.kaggle.com/yungbyun/fork-of-house-price-prediction-for-tutorial
+> https://www.kaggle.com/yungbyun/house-price-prediction-for-tutorial
 
 > **각 모듈에 대한 간단한 설명입니다.**
 > * **Pandas 판다스 : 데이터를 읽어들이고 유지하고 관리할 수 있는 멋진 모듈 (데이터베이스)**
