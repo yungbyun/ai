@@ -30,7 +30,7 @@
 > https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 
 ## 집값 예측하는 코드
-> https://www.kaggle.com/yungbyun/house-price-prediction-for-tutorial
+> https://www.kaggle.com/yungbyun/house-price-prediction-for-tutorial <br/>
 > https://www.kaggle.com/yungbyun/house-price-prediction-simple (조금 단순하게)
 
 > **각 모듈에 대한 간단한 설명입니다.**
