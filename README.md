@@ -44,6 +44,6 @@
 > * https://www.kaggle.com/yungbyun/functions-only (함수만 들어있음) 이를 이용하여 식물생장(예측/인식), 성별(인식/예측), 붓꽃(인식/예측) 코딩을 직접 해보자. 
 
 ## 과제 링크 제출 방법
-> * GitHub, Kaggle, Google Colab에 구현한 후 제출(반드시 오류없이 실행되어야 함)
+> * Kaggle, Google Colab에 구현한 후 제출(반드시 오류없이 실행되어야 함)
 > * 제출마감: 2020년 12월 중순 기말고사 주 토요일 밤 12시까지</br>
 > * 제출링크: TBA
