@@ -1,5 +1,8 @@
 # 인공지능(Artificial Intelligence)
 
+## 밢표신청 (슬랙)
+> * https://jnuai.slack.com/archives/C01DZ9H0C9G
+
 ## 동영상 강의 (슬랙)
 
 > * 슬렉 초청 링크 : https://join.slack.com/t/jnuai/shared_invite/zt-gy20hb2e-3kWox3sffiylvyhV_nVwEA </br>
