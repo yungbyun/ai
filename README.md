@@ -1,6 +1,6 @@
 # 인공지능(Artificial Intelligence)
 
-## 밢표신청 (슬랙)
+## 발표신청 (슬랙)
 > * https://jnuai.slack.com/archives/C01DZ9H0C9G
 
 ## 동영상 강의 (슬랙)
