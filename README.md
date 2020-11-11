@@ -1,7 +1,7 @@
 # 인공지능(Artificial Intelligence)
 
 ## 발표신청 (슬랙)
-> * https://jnuai.slack.com/archives/C01DZ9H0C9G
+> * https://app.slack.com/client/TNFK94R46/C01DZ9H0C9G
 > * 발표시간: 10분 ~ 15분
 > * 화요일 최대 3명, 목요일 최대 6명까지 발표
 
