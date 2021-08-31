@@ -1,7 +1,7 @@
 # 인공지능(Artificial Intelligence)
 
 ## 발표신청 (슬랙)
-> * https://app.slack.com/client/TNFK94R46/C01DZ9H0C9G
+> * https://join.slack.com/t/2021-ftb3634/shared_invite/zt-v78trc6s-ScXJ0IIcEB4MyeZxT7BodQ
 > * 발표시간: 10분 ~ 15분
 > * 화요일 최대 3명, 목요일 최대 6명까지 발표
 
