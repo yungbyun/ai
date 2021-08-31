@@ -4,8 +4,7 @@
 
 > * 슬렉 초청 링크 : https://join.slack.com/t/2021-ftb3634/shared_invite/zt-v78trc6s-ScXJ0IIcEB4MyeZxT7BodQ </br>
 
-> *온라인 동영상 강좌 시청 및 댓글 달기 중요! 강의 끝난 후 1시간 이내에 이해한 점과 궁금한 점을 댓글로 달아야 출석이 인정됩니다. 1시간 이내에 댓글을 달지 않을 경우 예외없이 결석으로 처리됩니다.:
-https://join.slack.com/t/csharpjnu/shared_invite/zt-v768b6l0-_IDEMYzYaGj8Mg3Vspa5sQ
+> * 온라인 동영상 강좌 시청 및 댓글 달기 중요! 강의 끝난 후 1시간 이내에 이해한 점과 궁금한 점을 댓글로 달아야 출석이 인정됩니다. 1시간 이내에 댓글을 달지 않을 경우 예외없이 결석으로 처리됩니다. https://join.slack.com/t/csharpjnu/shared_invite/zt-v768b6l0-_IDEMYzYaGj8Mg3Vspa5sQ
 
 ## 식물 성장 예측하기
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
