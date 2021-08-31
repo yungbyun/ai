@@ -1,13 +1,8 @@
 # 인공지능(Artificial Intelligence)
 
-## 발표신청 (슬랙)
-> * https://join.slack.com/t/2021-ftb3634/shared_invite/zt-v78trc6s-ScXJ0IIcEB4MyeZxT7BodQ
-> * 발표시간: 10분 ~ 15분
-> * 화요일 최대 3명, 목요일 최대 6명까지 발표
-
 ## 동영상 강의 (슬랙)
 
-> * 슬렉 초청 링크 : https://join.slack.com/t/jnuai/shared_invite/zt-gy20hb2e-3kWox3sffiylvyhV_nVwEA </br>
+> * 슬렉 초청 링크 : https://join.slack.com/t/2021-ftb3634/shared_invite/zt-v78trc6s-ScXJ0IIcEB4MyeZxT7BodQ </br>
 
 > * 9월 8일 (수) 동영상 강좌: Class_2020_1
 > <b>중요! 동영상을 보고 9월 8일 밤 11시까지 댓글을 달아야 출석이 인정됩니다. 기간 내에 댓글을 달지 않을 경우 예외없이 결석으로 처리됩니다.:</b></br>
