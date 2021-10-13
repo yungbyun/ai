@@ -10,15 +10,9 @@
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
 > https://www.kaggle.com/yungbyun/plant-diary-original/
 
-## 식물 성장 예측하기 (작업중)
-> https://www.kaggle.com/yungbyun/plant-diary-del
-
 ## 성별 알아맞히기
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
 > https://www.kaggle.com/yungbyun/female-male-classification-original (original)
-
-## 성별 알아맞히기 (작업중)
-> 작업중인 노트북: https://www.kaggle.com/yungbyun/female-male-classification-work 
 
 ## 붓꽃(Iris) 인식
 > https://www.kaggle.com/ash316/ml-from-scratch-with-iris
