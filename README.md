@@ -33,4 +33,4 @@
 
 ## 개인별 발표 오픈소스(Kaggle) 링크 제출
 > * 제출마감: 2021년 11월 9일(화) </br>
-> * 제출링크: TBA
+> * 제출링크: https://docs.google.com/spreadsheets/d/1ZSHSyg0UjvhfXsBHhAUgkfaQHu_ObrKSjmflHmt01_I/edit?usp=sharing
