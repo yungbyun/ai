@@ -7,7 +7,7 @@
 
 ## 식물 생장 예측하기
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
-> https://www.kaggle.com/yungbyun/plant-diary-original/
+> https://www.kaggle.com/yungbyun/plant-diary-original2/
 
 ## 성별 알아맞히기
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
