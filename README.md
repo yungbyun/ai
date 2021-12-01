@@ -35,7 +35,7 @@
 > * 제출링크: https://docs.google.com/spreadsheets/d/1ZSHSyg0UjvhfXsBHhAUgkfaQHu_ObrKSjmflHmt01_I/edit?usp=sharing
 
 ## 학생발표 동영상
-> * 1st: https://youtu.be/gr4IjgV5h_Y
-> * 2nd: https://youtu.be/XPZcASS5YoU
+> * 1st(01~07): https://youtu.be/gr4IjgV5h_Y
+> * 2nd(08~11): https://youtu.be/XPZcASS5YoU
 > * 3rd: (TBA)
 
