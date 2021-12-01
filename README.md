@@ -37,5 +37,5 @@
 ## 학생발표 동영상
 > * 1st(01~07): https://youtu.be/gr4IjgV5h_Y
 > * 2nd(08~11): https://youtu.be/XPZcASS5YoU
-> * 3rd: (TBA)
+> * 3rd(12~18): (TBA)
 
