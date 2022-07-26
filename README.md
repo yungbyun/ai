@@ -1,14 +1,13 @@
 # 인공지능(Artificial Intelligence)
 
 ## 동영상 강의 (슬랙)
-> * 캐글 (Kaggle) 소개, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
-> * 머신러닝과 데이터사이언스 경진대회 플랫폼인 캐글을 소개합니다., https://www.youtube.com/watch?v=VNOYpNItpdI
+> * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
+> * 캐글(Kaggle) 소개2, https://www.youtube.com/watch?v=VNOYpNItpdI
 > * 식물생장예측: https://youtu.be/RKXoSuwuX9I
 > * 성별예측: https://www.youtube.com/watch?v=JeYj5OHwQOw
 > * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
 > * 실습(성별예측2): https://youtu.be/4IEbdh62d2Y
 > * 실습(식물생장예측): https://youtu.be/DZnpkKxeB-w
-<br/>
 > * 실습(모듈화01): https://youtu.be/p6qhjnvTV0k
 > * 실습(모듈화02): https://youtu.be/8dpmy2wxxsI
 > * 실습(모듈화03): https://youtu.be/zEn7F80J9Ss 
