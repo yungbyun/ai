@@ -26,18 +26,18 @@
 > * 실습(모듈화11):https://youtu.be/KzkssBLEFuw
 > * 실습(모듈화12): https://youtu.be/L7CxEreBp8I
 
-## 성별 알아맞히기
+## (분류) 성별 알아맞히기
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
 > https://www.kaggle.com/yungbyun/female-male-classification-original (original)
 
-## 식물 생장 예측하기
+## (예측) 식물 생장 예측하기
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
 > https://www.kaggle.com/yungbyun/plant-diary-original2/
 
-## 붓꽃(Iris) 인식
+## (분류) 붓꽃(Iris) 인식
 > https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 
-## 집값 예측
+## (예측) 집값 예측
 > https://www.kaggle.com/yungbyun/house-price-prediction-for-tutorial <br/>
 > https://www.kaggle.com/yungbyun/house-price-prediction-simple (조금 단순하게)
 
