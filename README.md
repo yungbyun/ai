@@ -5,9 +5,22 @@
 > * 머신러닝과 데이터사이언스 경진대회 플랫폼인 캐글을 소개합니다., https://www.youtube.com/watch?v=VNOYpNItpdI
 > * 식물생장예측: https://youtu.be/RKXoSuwuX9I
 > * 성별예측: https://www.youtube.com/watch?v=JeYj5OHwQOw
-> * 실습(실습): https://youtu.be/QBq2f_1gfZA 
-> * 실습(성별예측): https://youtu.be/4IEbdh62d2Y
+> * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
+> * 실습(성별예측2): https://youtu.be/4IEbdh62d2Y
 > * 실습(식물생장예측): https://youtu.be/DZnpkKxeB-w
+<br/>
+> * 실습(모듈화01): https://youtu.be/p6qhjnvTV0k
+> * 실습(모듈화02): https://youtu.be/8dpmy2wxxsI
+> * 실습(모듈화03): https://youtu.be/zEn7F80J9Ss 
+> * 실습(모듈화04): https://youtu.be/YdGYkry6wI4 
+> * 실습(모듈화05): https://youtu.be/kA1BcE9iMvA
+> * 실습(모듈화06): https://youtu.be/r7o6UiiM1Lc 
+> * 실습(모듈화07):https://youtu.be/jFzTmaH0BOI
+> * 실습(모듈화08):https://youtu.be/eOiZWL2qTSQ
+> * 실습(모듈화09):https://youtu.be/RuI6V-HnA1w
+> * 실습(모듈화10):https://youtu.be/GuceU9CTYaQ
+> * 실습(모듈화11):https://youtu.be/KzkssBLEFuw
+> * 실습(모듈화12): https://youtu.be/L7CxEreBp8I
 
 ## 성별 알아맞히기
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
