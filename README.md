@@ -1,6 +1,6 @@
 # 인공지능(Artificial Intelligence)
 
-## 동영상 강의 (슬랙)
+## 동영상 강의 (처음 4개 동영상 시청 필수)
 > * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
 > * 캐글(Kaggle) 소개2, https://www.youtube.com/watch?v=VNOYpNItpdI
 > * 식물생장예측: https://youtu.be/RKXoSuwuX9I
