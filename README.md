@@ -5,7 +5,7 @@
 > * 머신러닝(예측): https://github.com/yungbyun/ai/blob/master/02.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1).pdf
 > * 파이썬 모듈화_기본: https://github.com/yungbyun/ai/blob/master/03.%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%AA%A8%EB%93%88%ED%99%94_%EA%B8%B0%EB%B3%B8.pdf
 
-## 동영상 강의 (처음 4개 동영상 시청 필수)
+## 동영상 강의 (처음 7개 동영상 시청 필수)
 > * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
 > * 캐글(Kaggle) 소개2, https://www.youtube.com/watch?v=VNOYpNItpdI
 > * 식물생장예측: https://youtu.be/RKXoSuwuX9I
