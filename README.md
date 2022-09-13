@@ -48,13 +48,13 @@
 > * **sklearn 싸이킷런 : 머신러닝 모델을 만들 수 있는 멋진 모듈 (인공지능 모델 구현)**
 
 ## Google Colab에서 구글 드라이브 파일 사용하기
-'''
+```
 from google.colab import drive
 drive.mount('/mydrive')
 
 import pandas as pd
 df = pd.read_csv("/mydrive/MyDrive/Projects/EV Pass/Data/fulldata.csv")
 df
-'''
+```
 
 
