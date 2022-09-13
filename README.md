@@ -46,3 +46,15 @@
 > * **NumPy 넘파이 : 다양한 수치연산, 변환 기능 등을 갖는 멋진 모듈 (계산기에 비유)** 
 > * **Seaborn 시본 : 데이터를 멋지게 표시하는 모듈 (엑셀에 비유)**
 > * **sklearn 싸이킷런 : 머신러닝 모델을 만들 수 있는 멋진 모듈 (인공지능 모델 구현)**
+
+## Google Colab에서 구글 드라이브 파일 사용하기
+'''
+from google.colab import drive
+drive.mount('/mydrive')
+
+import pandas as pd
+df = pd.read_csv("/mydrive/MyDrive/Projects/EV Pass/Data/fulldata.csv")
+df
+'''
+
+
