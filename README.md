@@ -46,6 +46,11 @@
 > * **NumPy 넘파이 : 다양한 수치연산, 변환 기능 등을 갖는 멋진 모듈 (계산기에 비유)** 
 > * **Seaborn 시본 : 데이터를 멋지게 표시하는 모듈 (엑셀에 비유)**
 > * **sklearn 싸이킷런 : 머신러닝 모델을 만들 수 있는 멋진 모듈 (인공지능 모델 구현)**
+## 머신러닝 코드 실행방법
+* Kaggle.com에서 (https://www.kaggle.com/)
+* Google Colab으로 (https://colab.research.google.com/)
+* 아나콘다(Anaconda)를 설치하여 (https://www.anaconda.com/products/distribution)
+* 파이참(PyCharm)을 설치하여 (https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
 
 ## Google Colab에서 구글 드라이브 파일 사용하기
 ```
