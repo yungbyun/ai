@@ -53,7 +53,7 @@ from google.colab import drive
 drive.mount('/mydrive')
 
 import pandas as pd
-df = pd.read_csv("/mydrive/MyDrive/Projects/EV Pass/Data/fulldata.csv")
+df = pd.read_csv("/mydrive/My Drive/data/fulldata.csv")
 df
 ```
 
