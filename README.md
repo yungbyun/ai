@@ -52,7 +52,7 @@
 * 내 PC에 **아나콘다(Anaconda)** 를 설치하여 (https://www.anaconda.com/products/distribution)
 * 내 PC에 **파이참(PyCharm)** 을 설치하여 (https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
 
-## Google Colab에서 구글 드라이브 파일 사용하기
+## Google Colab을 이용할 경우 구글 드라이브 파일 사용하기
 ```
 from google.colab import drive
 drive.mount('/mydrive')
