@@ -49,8 +49,8 @@
 ## 머신러닝 코드 실행방법
 * **Kaggle.com**에서 (https://www.kaggle.com/)
 * **Google Colab**으로 (https://colab.research.google.com/)
-* 내 PC에 **아나콘다(Anaconda)**를 설치하여 (https://www.anaconda.com/products/distribution)
-* 내 PC에 **파이참(PyCharm)**을 설치하여 (https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
+* 내 PC에 **아나콘다(Anaconda)** 를 설치하여 (https://www.anaconda.com/products/distribution)
+* 내 PC에 **파이참(PyCharm)** 을 설치하여 (https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
 
 ## Google Colab에서 구글 드라이브 파일 사용하기
 ```
