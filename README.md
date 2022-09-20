@@ -7,6 +7,9 @@
   height="50%"
 />
 
+## 개인별 프로젝트 등록
+> * https://docs.google.com/spreadsheets/d/1fIYdr3eNNoCSbnsMaXRSO4V-CGdATXyTo6iFKguYiMM/edit#gid=0
+
 ## 강의자료(pdf)
 > * 머신러닝(분류): https://github.com/yungbyun/ai/blob/master/01.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EB%B6%84%EB%A5%98).pdf
 > * 머신러닝(예측): https://github.com/yungbyun/ai/blob/master/02.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1).pdf
