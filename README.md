@@ -3,8 +3,8 @@
 ## 워크샵 안내
 <img
   src="./seminar.jpg"
-  width="10%"
-  height="20%"
+  width="50%"
+  height="50%"
 />
 
 ## 강의자료(pdf)
