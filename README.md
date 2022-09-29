@@ -1,11 +1,7 @@
 # 인공지능(Artificial Intelligence)
 
 ## 워크샵 안내
-<img
-  src="./seminar.jpg"
-  width="50%"
-  height="50%"
-/>
+<img   src="./seminar.jpg"   width="50%"   height="50%" />
 
 ## 개인별 프로젝트 등록
 > * https://docs.google.com/spreadsheets/d/1M9Cpa5NUPAiE_zguK2h00ProBXy1s83yginCL4d7NUo/edit#gid=0
