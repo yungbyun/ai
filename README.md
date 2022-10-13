@@ -73,12 +73,18 @@ df = pd.read_csv("/mydrive/yyy.csv")
 df
 ```
 
-## 주피터 노트북 설치 및 실행
+## 주피터 노트북 설치 및 실행 
 * 명령 프롬프트에서 아래 명령 실행 
 * python -m pip install --upgrade pip
 * pip3 install jupyter
 * jupyter notebook 
-* 
+
+## 캐글 코드를 주피터 노트북에서 실행하고 파이썬 코드로 저장해보기
+* 원하는 코드 선택 후 Download code -> 그러면 노트북 코드가 다운로드 됨.
+* 데이터 클릭 후 다운로드 -> 그러면 데이터가 다운로드 됨.
+* 다운로드된 코드와 데이터를 작업 폴더로 옮기기
+* 주피터 노트북에서 실행해보기
+* File | Download as | Python (.py) 선택하여 파이썬 코드 다운로드 -> PyCharm에서 실행가능
 
 ## 주피터 노트북(**.ipynb)을 파이썬(**.py)으로 바꾸기
 * 아나콘다 명령 프롬프트 실행
