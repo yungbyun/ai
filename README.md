@@ -59,6 +59,7 @@
 ## 머신러닝 코드 실행방법
 * **Kaggle.com**에서 (https://www.kaggle.com/)
 * **Google Colab**으로 (https://colab.research.google.com/)
+* 내 PC에 Jupyter Notebook 설치
 * 내 PC에 **아나콘다(Anaconda)** 를 설치하여 (https://www.anaconda.com/products/distribution)
 * 내 PC에 **파이참(PyCharm)** 을 설치하여 (https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
 
@@ -72,6 +73,14 @@ df = pd.read_csv("/mydrive/yyy.csv")
 df
 ```
 
+## 주피터 노트북 설치 및 실행
+* 명령 프롬프트에서 아래 명령 실행 
+* python -m pip install --upgrade pip
+* pip3 install jupyter
+* jupyter notebook 
+* 
+
 ## 주피터 노트북(**.ipynb)을 파이썬(**.py)으로 바꾸기
+* 아나콘다 명령 프롬프트 실행
 * jupyter nbconvert --to script filename.ipynb 
 
