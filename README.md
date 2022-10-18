@@ -50,6 +50,7 @@
 ## (예측) 집값 예측
 > https://www.kaggle.com/yungbyun/house-price-prediction-for-tutorial <br/>
 > https://www.kaggle.com/yungbyun/house-price-prediction-simple (조금 단순하게)
+> https://www.kaggle.com/code/yungbyun/house-price-prediction/edit/run/108413482 (오류 수정)
 
 > **각 모듈에 대한 간단한 설명입니다.**
 > * **Pandas 판다스 : 데이터를 읽어들이고 유지하고 관리할 수 있는 멋진 모듈 (데이터베이스에 비유)**
