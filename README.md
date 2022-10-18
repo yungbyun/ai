@@ -49,7 +49,7 @@
 
 ## (예측) 집값 예측
 > https://www.kaggle.com/yungbyun/house-price-prediction-for-tutorial <br/>
-> https://www.kaggle.com/yungbyun/house-price-prediction-simple (조금 단순하게)
+> https://www.kaggle.com/yungbyun/house-price-prediction-simple (조금 단순하게) <br/>
 > https://www.kaggle.com/code/yungbyun/house-price-prediction (오류 수정)
 
 > **각 모듈에 대한 간단한 설명입니다.**
