@@ -5,7 +5,7 @@
 <img   src="./seminar.jpg"   width="50%"   height="50%" />
 -->
 
-## 개인별 프로젝트 등록 (2023)
+## 개인별 프로젝트 등록
 > * https://docs.google.com/spreadsheets/d/1EYto9NcHWAwMuJxJh7oyYzHIr6IuZ9Zn3Y5ZV471g38/edit?usp=sharing
 
 ## 강의자료(pdf)
