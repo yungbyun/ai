@@ -35,9 +35,9 @@
 
 ## (분류) 성별 알아맞히기
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
-> https://www.kaggle.com/yungbyun/female-male-classification-original (original)
+> [original](https://www.kaggle.com/code/yungbyun/female-male-classification-original)
 > 함수로 추상화한 코드  <br/>
-> https://www.kaggle.com/code/yungbyun/functions-for-ml
+> [함수로 추상화한 코드](https://www.kaggle.com/code/yungbyun/functions-for-ml) 
 
 ## (예측) 식물 생장 예측하기
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
