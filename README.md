@@ -41,8 +41,8 @@
 
 ## (예측) 식물 생장 예측하기
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
-> * (simple) https://www.kaggle.com/code/yungbyun/plant-diary-original-simple
-> * [With Pycaret](https://www.kaggle.com/code/yungbyun/plant-diary-with-pycaret/edit)
+> * (Plant Diary Simple) https://www.kaggle.com/code/yungbyun/plant-diary-original-simple
+> * [Plant Diary With Pycaret](https://www.kaggle.com/code/yungbyun/plant-diary-with-pycaret/edit)
 
 ## (분류) 붓꽃(Iris) 인식
 > https://www.kaggle.com/ash316/ml-from-scratch-with-iris
