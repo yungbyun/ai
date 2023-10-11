@@ -45,7 +45,7 @@
 > * [Plant Diary With Pycaret](https://www.kaggle.com/code/yungbyun/plant-diary-with-pycaret/edit)
 
 ## (분류) 붓꽃(Iris) 인식
-> https://www.kaggle.com/ash316/ml-from-scratch-with-iris
+> [Iris Recognition](https://www.kaggle.com/ash316/ml-from-scratch-with-iris)
 
 ## (예측) 집값 예측
 > https://www.kaggle.com/yungbyun/house-price-prediction-for-tutorial <br/>
