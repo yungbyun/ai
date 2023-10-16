@@ -5,6 +5,9 @@
 <img   src="./seminar.jpg"   width="50%"   height="50%" />
 -->
 
+## 특강 설문조사 
+> https://forms.gle/mvSLJ6g825sduHpV9
+
 ## 개인별 분석할 오픈소스 프로젝트 등록 (중간고사 기간까지, 타 학생 등록한 것 중복 선택 불가)
 > * https://docs.google.com/spreadsheets/d/1EYto9NcHWAwMuJxJh7oyYzHIr6IuZ9Zn3Y5ZV471g38/edit?usp=sharing
 
