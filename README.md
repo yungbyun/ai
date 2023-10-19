@@ -40,7 +40,9 @@
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
 > * [Female-Male Classification Original](https://www.kaggle.com/code/yungbyun/female-male-classification-original)
 > * [함수로 추상화한 코드](https://www.kaggle.com/code/yungbyun/functions-for-ml)
-> * [Female-Male Classification With Pycaret](https://www.kaggle.com/code/yungbyun/male-female-classification-with-pycaret/edit) 
+> * [Female-Male Classification With Pycaret](https://www.kaggle.com/code/yungbyun/male-female-classification-with-pycaret/edit)
+> * [강의때 작성했던 중간코드 1](https://github.com/yungbyun/ai/blob/master/1018_My.zip)
+> * [강의때 작성했던 중간코드 2](
 
 ## (예측) 식물 생장 예측하기
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
