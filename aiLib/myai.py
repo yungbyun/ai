@@ -21,7 +21,7 @@ class MyDataFrame: #gildong
         # CSV 파일 읽어오기
         self.data_frame = pd.read_csv(f)
 
-    def file_info(self):
+    def show_file_info(self):
         self.data_frame.info()
 
     def show_head(self):
@@ -51,7 +51,6 @@ class MyDataFrame: #gildong
         for i in range(len(cl) - 1):
             self.data_frame[self.data_frame[c] == cl[i + 1]].plot(kind='scatter', x=a, y=b, color=col[i + 1], label=cl[i + 1],
                                                         ax=fig)
-
         fig.set_xlabel(a)
         fig.set_ylabel(b)
         fig.set_title(a + " vs. " + b)
@@ -63,30 +62,32 @@ class MyDataFrame: #gildong
         f, sub = plt.subplots(1, 1, figsize=(8, 6))
         sns.boxplot(x=self.data_frame[a], y=self.data_frame[b], ax=sub)
         sub.set(xlabel=a, ylabel=b)
+        plt.show()
 
     def show_violenplot(self, a, b):
         plt.figure(figsize=(8, 6))
         plt.subplot(1, 1, 1)
         sns.violinplot(x=a, y=b, data=self.data_frame)
+        plt.show()
 
     def show_heatmap(self):
         plt.figure(figsize=(12, 8))
         sns.heatmap(self.data_frame.corr(), annot=True, cmap='cubehelix_r')
         plt.show()
 
-    def prepare_data(self, q, target, r):
-        train, test = train_test_split(self.data_frame, test_size=r)
+    def prepare_data(self, input_cols, target_col, ratio):
+        train, test = train_test_split(self.data_frame, test_size=ratio)
         # train=70% and test=30%
         print(train.shape)
         print(test.shape)
 
         # 학습용 문제, 학습용 정답
-        train_X = train[q]  # 키와 발크기만 선택
-        train_y = train[target]  # 정답 선택
+        train_X = train[input_cols]  # 키와 발크기만 선택
+        train_y = train[target_col]  # 정답 선택
 
         # 테스트용 문제, 테스트용 정답
-        test_X = test[q]  # taking test data features
-        test_y = test[target]  # output value of test data
+        test_X = test[input_cols]  # taking test data features
+        test_y = test[target_col]  # output value of test data
         return train_X, train_y, test_X, test_y
 
     def drop(self, col):
@@ -106,7 +107,7 @@ class MyModel: #youngja
     test_X = []
     test_y = []
 
-    def __init__(self, i, j, k, l):
+    def set_data(self, i, j, k, l):
         self.train_X = i
         self.train_y = j
         self.test_X = k
@@ -138,7 +139,6 @@ class MyModel: #youngja
         rate3 = metrics.accuracy_score(prediction, self.test_y) * 100
         print('인식률: {0:.1f}'.format(rate3))
 
-
     def run_NN(self):
         minsu = KNeighborsClassifier(n_neighbors=3)  # this examines 3 neighbours for putting the new data into a class
         minsu.fit(self.train_X, self.train_y)
@@ -148,42 +148,77 @@ class MyModel: #youngja
         print('인식률: {0:.1f}'.format(rate4))
 
 
-class MyML:  # minsu
+from abc import *
+class MachineLearning(metaclass = ABCMeta):
+    df = MyDataFrame()
+    model = MyModel()
+
+    input_cols = 0
+    target_col = 0
     file_name = 0
-    test_data_ratio = 0
-    q_cols = 0
-    target = 0
 
-    heatmap_flag = 0
+    @abstractmethod
+    def set_file(self):
+        pass
 
-    def set_heatmap(self, flag):
-        self.heatmap_flag = flag;
+    def load_csv(self):
+        self.df.load_csv(self.file_name)
 
-    def set_file(self, f):
-        self.file_name = f
+    def show_info(self):
+        self.df.show_file_info()
+        self.df.show_cols()
 
-    def set_data_ratio(self, v):
-        self.test_data_ratio = v
+    def visualize(self):
+        # self.df.show_hist()
+        # self.df.show_boxplot('Species', 'SepalWidthCm')
+        pass
 
-    def set_q_cols(self, i):
-        self.q_cols = i
+    @abstractmethod
+    def set_input_cols(self):
+        pass
 
-    def set_target(self, t):
-        self.target = t
+    @abstractmethod
+    def set_target_col(self):
+        pass
 
-    def doML(self):
-        gildong = MyDataFrame()
-        gildong.load_csv(self.file_name);
-        gildong.file_info()
-        gildong.plot('Height', 'FeetSize', 'Sex')
+    def prepare_data(self):
+        a, b, c, d = self.df.prepare_data(self.input_cols, self.target_col, 0.4)
+        self.model.set_data(a, b, c, d)
 
-        if self.heatmap_flag:
-            gildong.show_heatmap()
+    def run_models(self):
+        self.model.run_LR()
+        self.model.run_DT()
+        self.model.run_NN()
+        self.model.run_SVM()
 
-        a, b, c, d = gildong.prepare_data(self.q_cols, self.target, self.test_data_ratio)
+    @abstractmethod
+    def preprocess(self):
+        pass
 
-        youngja = MyModel(a, b, c, d)
-        youngja.run_SVM()
-        youngja.run_LR()
-        youngja.run_DT()
-        youngja.run_NN()
+    def run(self):
+        self.set_file()
+
+        # (1) 데이터 로드
+        self.load_csv()
+        # (2) 데이터 정보 표시
+        self.show_info()
+
+        self.preprocess()
+
+        # (3) 데이터 시각화
+        self.visualize()
+
+        self.set_input_cols()
+        self.set_target_col()
+
+        # (4) 학습/테스트 데이터 준비하기
+        self.prepare_data()
+        # (5) 머신러닝 모델 실행하기
+        self.run_models()
+
+
+class Application:
+    @staticmethod
+    def run(ml):
+        ml.run()
+
