@@ -4,6 +4,7 @@
 ## 워크샵 안내
 <img   src="./seminar.jpg"   width="50%"   height="50%" />
 -->
+## 11월 8일 특강 강사: 박서연 교수, https://www.ilyojournal.com/news/articleView.html?idxno=21786
 
 ## 특강 설문조사 
 > https://forms.gle/mvSLJ6g825sduHpV9
