@@ -5,6 +5,8 @@
 <img   src="./seminar.jpg"   width="50%"   height="50%" />
 -->
 
+<img   src="./usa.png"   width="50%"   height="50%" />
+
 
 ## RIS 지능형서비스사업단 설문조사 (아래 링크 클릭)
 http://naver.me/59ijR7PO
