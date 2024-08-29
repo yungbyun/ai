@@ -2,7 +2,7 @@
 
 <!-- 주석
 ## 워크샵 안내
-<img   src="./seminar.jpg"   width="50%"   height="50%" />
+<img   src="./md.jpg"   width="50%"   height="50%" />
 -->
 
 <img   src="./usa.png"   width="50%"   height="50%" />
