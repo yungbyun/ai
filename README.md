@@ -1,31 +1,18 @@
 # 인공지능(Artificial Intelligence)
-### 마이크로디그리를 신청하기만 하여도 장학금 30만원이!
+### 인공지능 과목이 포함된 '인공지능SW' 마이크로디그리를 신청하기만 하여도 장학금 30만원이!
 <!-- 주석
 <img   src="./md.jpg"   width="50%"   height="50%" />
 -->
 
 <img   src="./md.jpg"   width="50%"   height="50%" />
-
-### 자율주행 자동차 경진대회 참여 혜택
-* 참여하는 학생들에게는 1천만원 상당의 자율주행 자동차를 구입하여 사용할 수 있도록 지원
-* 1인당 장학금 40만원 추가로 지급 예정 
-<img   src="./md.jpg"   width="50%"   height="50%" />
-
-### 구글 클라우드 특강 혜택
-* 제주대학교 졸업 2년 이내 학생에게는 혁신인재지원금 50만원 지급  -> 수료 후 일괄지급 
-* 전체 수강자 중 3명 선발하여 미국 구글 본사 방문 (예정으로 아직 확정되지 않음)
-* 전체 수강자 중 10명 선발하여 상장과 부상 수여
-* 제주대학교 재학생 중 3명 선발하여 실리콘벨리 기업 방문, 해외 연수 우선 선발 (2024년도 진행) 
-<img   src="./google.png"   width="50%"   height="50%" />
-
-
+<!-- 주석
 ## RIS 지능형서비스사업단 설문조사 (아래 링크 클릭)
 http://naver.me/59ijR7PO
 
 
 ## 개인별 분석할 오픈소스 프로젝트 등록 (중간고사 기간까지, 타 학생 등록한 것 중복 선택 불가)
 > * https://docs.google.com/spreadsheets/d/1EYto9NcHWAwMuJxJh7oyYzHIr6IuZ9Zn3Y5ZV471g38/edit?usp=sharing
-
+-->
 ## 강의자료(pdf)
 > * [01.인공지능과 머신러닝(예측-분류)](https://github.com/yungbyun/ai/blob/master/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98).pdf)
 > * [03.파이썬 모듈화_기본](https://github.com/yungbyun/ai/blob/master/03.%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%AA%A8%EB%93%88%ED%99%94_%EA%B8%B0%EB%B3%B8.pdf)
