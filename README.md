@@ -5,12 +5,12 @@
 <img   src="./md.jpg"   width="50%"   height="50%" />
 -->
 
-<img   src="./usa.png"   width="50%"   height="50%" />
+<img   src="./md.jpg"   width="50%"   height="50%" />
 
 ### 자율주행 자동차 경진대회 참여 혜택
 * 참여하는 학생들에게는 1천만원 상당의 자율주행 자동차를 구입하여 사용할 수 있도록 지원
 * 1인당 장학금 40만원 추가로 지급 예정 
-<img   src="./ev.jpg"   width="50%"   height="50%" />
+<img   src="./md.jpg"   width="50%"   height="50%" />
 
 ### 구글 클라우드 특강 혜택
 * 제주대학교 졸업 2년 이내 학생에게는 혁신인재지원금 50만원 지급  -> 수료 후 일괄지급 
