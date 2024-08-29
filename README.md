@@ -1,7 +1,6 @@
 # 인공지능(Artificial Intelligence)
-
+### 마이크로디그리를 신청하기만 하여도 장학금 30만원이!
 <!-- 주석
-## 워크샵 안내
 <img   src="./md.jpg"   width="50%"   height="50%" />
 -->
 
