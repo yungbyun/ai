@@ -8,7 +8,7 @@
 <!-- 주석
 ## RIS 지능형서비스사업단 설문조사 (아래 링크 클릭)
 http://naver.me/59ijR7PO
-
+-->
 
 ## 개인별 분석할 오픈소스 프로젝트 등록 (중간고사 기간까지, 타 학생 등록한 것 중복 선택 불가)
 > * https://docs.google.com/spreadsheets/d/1EYto9NcHWAwMuJxJh7oyYzHIr6IuZ9Zn3Y5ZV471g38/edit?usp=sharing
