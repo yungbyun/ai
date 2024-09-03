@@ -1,10 +1,8 @@
 # 인공지능(Artificial Intelligence)
 ### 인공지능 과목이 포함된 '인공지능SW' 마이크로디그리를 신청하기만 하여도 장학금 30만원이!
-<!-- 주석
-<img   src="./md.jpg"   width="50%"   height="50%" />
--->
+<img   src="./md.jpg"   width="50%"   height="50%" /> <br/>
+<img   src="./ris.jpg"   width="50%"   height="50%" />
 
-<img   src="./md.jpg"   width="50%"   height="50%" />
 <!-- 주석
 ## RIS 지능형서비스사업단 설문조사 (아래 링크 클릭)
 http://naver.me/59ijR7PO
