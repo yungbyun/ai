@@ -16,8 +16,7 @@ http://naver.me/59ijR7PO
 -->
 
 ## 강의자료(pdf)
-> * [01.인공지능과 머신러닝(예측-분류)](https://github.com/yungbyun/ai/blob/master/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98).pdf)
-> * [03.파이썬 모듈화_기본](https://github.com/yungbyun/ai/blob/master/03.%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%AA%A8%EB%93%88%ED%99%94_%EA%B8%B0%EB%B3%B8.pdf)
+> * [01.인공지능과 머신러닝(2024)](https://github.com/yungbyun/ai/blob/master/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(2024).pdf)
 
 ## 동영상 강의 (처음 7개 동영상 시청 필수)
 > * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
