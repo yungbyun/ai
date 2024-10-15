@@ -14,7 +14,7 @@ http://naver.me/59ijR7PO
 
 ## 개인별 분석할 오픈소스 프로젝트 등록 (중간고사 기간까지, 타 학생 등록한 것 중복 선택 불가)
 > * [내가 분석할 오픈소스 등록](https://docs.google.com/spreadsheets/d/1aAXFElEG42Ic-Gqr_Mn4djJ86O5gmtJLbT7QlkkZ7XQ/edit?gid=0#gid=0)
-> * 제주데이터허브 - https://www.jejudatahub.net/
+> * https://www.jejudatahub.net/
 
 <!-- 주석
 ### 인공지능 과목이 포함된 '인공지능SW' 마이크로디그리를 신청하기만 하여도 장학금 30만원이!
