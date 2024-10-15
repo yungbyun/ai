@@ -14,7 +14,23 @@ http://naver.me/59ijR7PO
 
 ## 개인별 분석할 오픈소스 프로젝트 등록 (중간고사 기간까지, 타 학생 등록한 것 중복 선택 불가)
 > * [내가 분석할 오픈소스 등록](https://docs.google.com/spreadsheets/d/1aAXFElEG42Ic-Gqr_Mn4djJ86O5gmtJLbT7QlkkZ7XQ/edit?gid=0#gid=0)
+> * [참고:제주데이터허브](https://www.jejudatahub.net/)
 
+<!-- 주석
+### 인공지능 과목이 포함된 '인공지능SW' 마이크로디그리를 신청하기만 하여도 장학금 30만원이!
+<img   src="./md.jpg"   width="50%"   height="50%" /> <br/>
+
+### 사업단 핵심과목 1개 신청 + '지능형서비스' 마이크로디그리 신청하면 장학금 50만원(단독 신청시)! 
+<img   src="./ris.jpg"   width="50%"   height="50%" />
+
+
+## RIS 지능형서비스사업단 설문조사 (아래 링크 클릭)
+http://naver.me/59ijR7PO
+-->
+
+## 개인별 분석할 오픈소스 프로젝트 등록 (중간고사 기간까지, 타 학생 등록한 것 중복 선택 불가)
+> * [내가 분석할 오픈소스 등록](https://docs.google.com/spreadsheets/d/1aAXFElEG42Ic-Gqr_Mn4djJ86O5gmtJLbT7QlkkZ7XQ/edit?gid=0#gid=0)
+> * 제주데이터허브
 ## 강의자료(pdf)
 > * [01.인공지능과 머신러닝(2024)](https://github.com/yungbyun/ai/blob/master/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98).pdf)
 > * [머신러닝 사례(꽃의 품종 판별)](https://github.com/yungbyun/ai/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%82%AC%EB%A1%80_%EA%BD%83%EC%9D%98%20%ED%92%88%EC%A2%85%20%ED%8C%90%EB%B3%84.pdf)
