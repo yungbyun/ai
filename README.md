@@ -29,7 +29,7 @@ http://naver.me/59ijR7PO
 -->
 
 ## 강의자료(pdf)
-> * [01.인공지능과 머신러닝(2024)](https://github.com/yungbyun/ai/blob/master/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98).pdf)
+> * [01.인공지능과 머신러닝](https://github.com/yungbyun/ai/blob/master/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98).pdf)
 > * [머신러닝 사례(꽃의 품종 판별)](https://github.com/yungbyun/ai/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%82%AC%EB%A1%80_%EA%BD%83%EC%9D%98%20%ED%92%88%EC%A2%85%20%ED%8C%90%EB%B3%84.pdf)
 ## 동영상 강의 (처음 7개 동영상 시청 필수)
 > * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
