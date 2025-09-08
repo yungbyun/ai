@@ -12,7 +12,7 @@
 http://naver.me/59ijR7PO
 -->
 
-## 개인별 분석할 오픈소스 프로젝트 등록 (중간고사 기간까지, 타 학생 등록한 것 중복 선택 불가)
+## 개인별 분석할 오픈소스 등록 (중간고사 기간까지, 타 학생 등록한 것 중복 선택 불가)
 > * [내가 분석할 오픈소스 등록](https://docs.google.com/spreadsheets/d/16D3I7WLcxwsPM12HjnLFPyblRh3BtsEu68kN-7Zh9CA/edit?gid=0#gid=0)
 > * https://www.jejudatahub.net/
 
