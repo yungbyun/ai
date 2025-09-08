@@ -52,21 +52,21 @@ http://naver.me/59ijR7PO
 > * 실습(모듈화11):https://youtu.be/KzkssBLEFuw
 > * 실습(모듈화12): https://youtu.be/L7CxEreBp8I
 
-## (분류) 성별 알아맞히기
+## (분류) 성별 알아맞히기 코드
 > 키/몸무게/발크기로 성별 알아맞추기 <br/>
 > * [Female-Male Classification Original](https://www.kaggle.com/code/yungbyun/female-male-classification-original)
 > * [함수로 추상화한 코드](https://www.kaggle.com/code/yungbyun/functions-for-ml)
 > * [Female-Male Classification With Pycaret](https://www.kaggle.com/code/yungbyun/male-female-classification-with-pycaret/edit)
 
-## (예측) 식물 생장 예측하기
+## (예측) 식물 생장 예측하기 코드
 > 몇일 후 잎의 길이와 너비가 얼마나 자랄 것인지를 예측함. <br/>
 > * [Plant Diary Original](https://www.kaggle.com/code/yungbyun/plant-diary-original)
 > * [Plant Diary With Pycaret](https://www.kaggle.com/code/yungbyun/plant-diary-with-pycaret/edit)
 
-## (분류) 붓꽃(Iris) 인식
+## (분류) 붓꽃(Iris) 인식 코드
 > [Iris Recognition](https://www.kaggle.com/ash316/ml-from-scratch-with-iris)
 
-## (예측) 집값 예측
+## (예측) 집값 예측 코드
 > https://www.kaggle.com/yungbyun/house-price-prediction-for-tutorial <br/>
 > https://www.kaggle.com/yungbyun/house-price-prediction-simple (조금 단순하게) <br/>
 > https://www.kaggle.com/code/yungbyun/house-price-prediction (오류 수정)
@@ -76,6 +76,7 @@ http://naver.me/59ijR7PO
 > * **NumPy 넘파이 : 다양한 수치연산, 변환 기능 등을 갖는 멋진 모듈 (계산기에 비유)** 
 > * **Seaborn 시본 : 데이터를 멋지게 표시하는 모듈 (엑셀에 비유)** 
 > * **sklearn 싸이킷런 : 머신러닝 모델을 만들 수 있는 멋진 모듈 (인공지능 모델 구현)**
+
 ## 머신러닝 코드 실행방법
 * **Kaggle.com**에서 (https://www.kaggle.com/)
 * **Google Colab**으로 (https://colab.research.google.com/)
