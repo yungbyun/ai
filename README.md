@@ -80,9 +80,10 @@ http://naver.me/59ijR7PO
 ## 머신러닝 코드 실행방법
 * **Kaggle.com**에서 (https://www.kaggle.com/)
 * **Google Colab**으로 (https://colab.research.google.com/)
-* 내 PC에 Jupyter Notebook 설치 ('Jupyter Notebook 설치'로 구글/YouTube 검색)
-* 내 PC에 **아나콘다(Anaconda)** 를 설치하여 (https://www.anaconda.com/products/distribution)
-* 내 PC에 **파이참(PyCharm)** 을 설치하여 (https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
+* 내 PC에 Jupyter Notebook 설치 ('Jupyter Notebook 설치' YouTube 검색)
+* 내 PC에 **아나콘다(Anaconda)** 를 설치하여 (https://www.anaconda.com/products/distribution, '아나콘다 설치' YouTube 검색)
+* 내 PC에 **파이참(PyCharm)** 을 설치하여 (https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows, '파이참 설치' YouTube 검색)
+* 내 PC에 **비주얼 스튜디오 코드**를 설치하여 (https://code.visualstudio.com/, '비주얼 스튜디오 코드' YouTube 검색)
 
 ## Google Colab을 이용할 경우 구글 드라이브 파일 사용하기
 ```
