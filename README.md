@@ -31,7 +31,7 @@ http://naver.me/59ijR7PO
 ## 강의자료(pdf)
 > * [01.인공지능과 머신러닝](https://github.com/yungbyun/ai/blob/master/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98).pdf)
 > * [머신러닝 사례(꽃의 품종 판별)](https://github.com/yungbyun/ai/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%82%AC%EB%A1%80_%EA%BD%83%EC%9D%98%20%ED%92%88%EC%A2%85%20%ED%8C%90%EB%B3%84.pdf)
-## 동영상 강의 (처음 5개 동영상 시청 필수)
+## 인공지능 프로그래밍 (처음 5개 동영상 시청 필수)
 > * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
 > * 캐글(Kaggle) 소개2, https://www.youtube.com/watch?v=VNOYpNItpdI
 > * 식물생장예측: https://youtu.be/RKXoSuwuX9I
@@ -52,7 +52,7 @@ http://naver.me/59ijR7PO
 > * 실습(모듈화11):https://youtu.be/KzkssBLEFuw
 > * 실습(모듈화12): https://youtu.be/L7CxEreBp8I
 
-## 동영상 강의 (처음 5개 동영상 시청 필수)
+## 신경망과 LLM 프로그래밍 
 > * [인공지능과 인간의 뇌](http://jawoomedia.co.kr:5330/857_[%EC%A0%9C%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90]-[JOY%EA%B3%B5%EC%9C%A0%EB%8C%80%ED%95%99%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B0%95%EC%A2%8C%20%EA%B0%9C%EB%B0%9C]/(%EC%A0%84%EA%B3%B5)03.%EC%A7%80%EB%8A%A5%ED%98%95%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C/03_web/jw_player/index.html?chasiNum=13)
 > * [뇌에 있는 시냅스 동작](http://jawoomedia.co.kr:5330/857_[%EC%A0%9C%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90]-[JOY%EA%B3%B5%EC%9C%A0%EB%8C%80%ED%95%99%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B0%95%EC%A2%8C%20%EA%B0%9C%EB%B0%9C]/(%EC%A0%84%EA%B3%B5)03.%EC%A7%80%EB%8A%A5%ED%98%95%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C/03_web/jw_player/index.html?chasiNum=14)
 > * [시냅스와 인공지능 구현의 원리](http://jawoomedia.co.kr:5330/857_[%EC%A0%9C%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90]-[JOY%EA%B3%B5%EC%9C%A0%EB%8C%80%ED%95%99%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B0%95%EC%A2%8C%20%EA%B0%9C%EB%B0%9C]/(%EC%A0%84%EA%B3%B5)03.%EC%A7%80%EB%8A%A5%ED%98%95%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C/03_web/jw_player/index.html?chasiNum=15)
