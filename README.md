@@ -1,6 +1,6 @@
 # 인공지능(Artificial Intelligence)
 
-### 겨울방학 초거대AI 캠프 참가지 모집 (장학금 50만원 지급)
+### 겨울방학 초거대AI 캠프 참가지 모집 (장학금 50만원 지급, 선착순)
 > * [초거대 AI 글로벌 캠프](https://docs.google.com/document/d/1kLbAQ3TCt6db4-cjOmQ9kl3oMbdmd1-pr1iUqfBtI4s/edit?usp=sharing)
 
 <!-- 주석
