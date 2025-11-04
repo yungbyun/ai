@@ -1,5 +1,8 @@
 # 인공지능(Artificial Intelligence)
 
+### 겨울방학 초거대AI 캠프 참가지 모집 (장학금 50만원 지급)
+> * [초거대 AI 글로벌 캠프](https://docs.google.com/document/d/1kLbAQ3TCt6db4-cjOmQ9kl3oMbdmd1-pr1iUqfBtI4s/edit?usp=sharing)
+
 <!-- 주석
 ### 인공지능 과목이 포함된 '인공지능SW' 마이크로디그리를 신청하기만 하여도 장학금 30만원이!
 <img   src="./md.jpg"   width="50%"   height="50%" /> <br/>
